@@ -87,11 +87,14 @@ Housing.csv: The dataset used in this project, sourced from Kaggle Datasets.
 DM_final_presentation.pptx: Final presentation summarizing the project findings and insights.
 
 **How to Run**
-1. Clone the Repository :git clone https://github.com/rachanap0/Housing-Price-Prediction.git
-2. Install the Required Dependencies:
+1. Clone the Repository:
+```bash
+git clone https://github.com/rachanap0/Housing-Price-Prediction.git
+```
+4. Install the Required Dependencies:
    cd repository-name
    pip install -r requirements.txt
-3. Open and Run the Jupyter Notebook : jupyter notebook
+5. Open and Run the Jupyter Notebook : jupyter notebook
 
 **License**
 
