@@ -4,7 +4,9 @@ This project aims to provide insight into the factors that significantly impact 
 **Dataset**
 
 Rows: 545
+
 Columns: 13
+
 Features: Includes categorical variables such as furnishing status, which were converted into dummy variables for analysis.
 Source: The dataset was sourced from Kaggle Datasets.
 
